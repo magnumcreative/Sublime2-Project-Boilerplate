@@ -1,12 +1,12 @@
 {
     "folders":
     [
-        { // ROOT > of your website c:/mywork/<website>
+        { // ROOT of your website c:/mywork/<website>
             "path": "/C/..",
             "name": "master"
         },
 
-        { // THEME > Path to your theme template dir
+        { // THEME template dir
             "path": "/C/..",
             "name": "theme",
             "folder_exclude_patterns": [
@@ -24,7 +24,7 @@
             ]
         },
 
-        { // BS LESS > Bootstrap less files that you likely only need to look at
+        { // LESS files that you likely only use
             "path": "/C/..",
             "file_include_patterns":[
                 "app*",
@@ -37,7 +37,7 @@
             ]
         },
 
-        { // JS > Path to JS dir
+        { // JS dir
             "path": "/C/..",
             "name": "js",
             "folder_exclude_patterns": [
@@ -49,7 +49,8 @@
             ]
         },
 
-        { // Lib > Working with Roots.io it's nice to have this dir handy
+        { // Lib
+          // Working with Roots.io it's nice to have this dir handy
             "path": "/C/..",
             "name": "lib"
         }
