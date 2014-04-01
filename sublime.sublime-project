@@ -1,7 +1,9 @@
 {
     "folders":
     [
-        { /** ROOT of your website c:/mywork/<website> */
+        {   /**
+            * ROOT of your website c:/mywork/<website>
+            */
             "path": "/C/..",
             "name": "master"
         },
