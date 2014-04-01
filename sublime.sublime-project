@@ -1,0 +1,57 @@
+{
+    "folders":
+    [
+        { // ROOT > of your website c:/mywork/<website>
+            "path": "/C/..",
+            "name": "master"
+        },
+
+        { // THEME > Path to your theme template dir
+            "path": "/C/..",
+            "name": "theme",
+            "folder_exclude_patterns": [
+                "lang",
+                "node_modules",
+                "assets",
+                "lib"
+            ],
+            "file_exclude_patterns":[
+                "*.md",
+                "grunt*",
+                ".*",
+                "funct*",
+                "*.json"
+            ]
+        },
+
+        { // BS LESS > Bootstrap less files that you likely only need to look at
+            "path": "/C/..",
+            "file_include_patterns":[
+                "app*",
+                "boot*",
+                "gravity*",
+                "mix*",
+                "print*",
+                "type*",
+                "var*"
+            ]
+        },
+
+        { // JS > Path to JS dir
+            "path": "/C/..",
+            "name": "js",
+            "folder_exclude_patterns": [
+                "plugins",
+                "vendor"
+            ],
+            "file_exclude_patterns":[
+                "scripts*"
+            ]
+        },
+
+        { // Lib > Working with Roots.io it's nice to have this dir handy
+            "path": "/C/..",
+            "name": "lib"
+        }
+    ]
+}
