@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+alt+u"], "command": "sftp_upload_file" },
+	{ "keys": ["ctrl+alt+a"], "command": "alignment" },
+	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": {"single_line": false}}
+]
