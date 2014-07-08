@@ -1,13 +1,21 @@
 {
     "folders":
     [
-        {   // ROOT of your website c:/mywork/<website>
-            "path": "/C/..",
+        {   // httpd-vhosts.conf and host file
+            "path": "../Utilities/wamp/bin/apache/apache2.2.22/conf/extra",
+            "name": "Host Files",
+            "file_include_patterns":[
+                "httpd-vhosts.*"
+            ]
+        },
+        
+        {   // ROOT of your website ../mywork/<website>
+            "path": "../Dropbox/MAGNUM/website/SITE_FOLDER",
             "name": "master"
         },
 
         {   // THEME template dir
-            "path": "/C/..",
+            "path": "../Dropbox/MAGNUM/website/SITE_FOLDER/wrk/themes/YOUR_THEME",
             "name": "theme",
             "folder_exclude_patterns": [
                 "lang",
@@ -23,9 +31,19 @@
                 "*.json"
             ]
         },
+        
+        {   // MUST USE PLUGINS
+            "path": "../Dropbox/MAGNUM/website/SITE_FOLDER/wrk/mu-plugins",
+            "name": "mu-plugins"
+        },
+
+        {   // PLUGINS
+            "path": "../Dropbox/MAGNUM/website/SITE_FOLDER/wrk/plugins",
+            "name": "plugins"
+        },
 
         {   // LESS files that you likely only use
-            "path": "/C/..",
+            "path": "../Dropbox/MAGNUM/website/SITE_FOLDER/wrk/themes/YOUR_THEME/assets/less",
             "file_include_patterns":[
                 "app*",
                 "boot*",
@@ -38,7 +56,7 @@
         },
 
         {   // JS dir
-            "path": "/C/..",
+            "path": "../Dropbox/MAGNUM/website/SITE_FOLDER/wrk/themes/YOUR_THEME/assets/js",
             "name": "js",
             "folder_exclude_patterns": [
                 "plugins",
@@ -51,7 +69,7 @@
 
         {   // Lib
             // Working with Roots.io it's nice to have this dir handy
-            "path": "/C/..",
+            "path": "../Dropbox/MAGNUM/website/SITE_FOLDER/wrk/themes/YOUR_THEME/lib",
             "name": "lib"
         }
     ]
