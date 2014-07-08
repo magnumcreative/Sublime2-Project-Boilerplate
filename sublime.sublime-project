@@ -4,7 +4,7 @@
         {   // httpd-vhosts.conf and host file
             "path": "../Utilities/wamp/bin/apache/apache2.2.22/conf/extra",
             //"path": "c:/windows/system32/drivers/etc",
-            "name": "Host Files",
+            "name": "httpd-vhosts",
             "file_include_patterns":[
                 "httpd-vhosts.*",
                 "hosts"
