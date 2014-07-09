@@ -1,9 +1,9 @@
 ### Sublime3 project settings boilerplate
 This is a quick sublime3 project configuration file that helps define your working envrionements in Sublime. Download Sublime3 at http://www.sublimetext.com/3
 
-### Themes
+### Required Themes
 
-* Soda - https://sublime.wbond.net/packages/Theme%20-%20Soda
+If you are using the default sublime user settings you will need the Soda Theme installed otherwise you will get rendering issues in the Sublie GUI. https://sublime.wbond.net/packages/Theme%20-%20Soda
 
 ### Must Use Packages
 
@@ -11,6 +11,7 @@ This is a quick sublime3 project configuration file that helps define your worki
 * Bracket Highlighter
 * DocBlockr
 * Emmet
+* LESS - require for less syntax highlighting
 * SFTP (registration key required)
 * SideBarEnhancements
 * SublimeCodeIntel
@@ -25,7 +26,6 @@ This is a quick sublime3 project configuration file that helps define your worki
 * Git
 * GitGutter
 * Grunt
-* LESS
 * LESS-build
 * LoremIpsum
 * Minifier
