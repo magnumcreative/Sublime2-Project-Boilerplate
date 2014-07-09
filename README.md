@@ -16,7 +16,7 @@ If you are using the default sublime user settings you will need the Soda Theme 
 * SFTP (registration key required)
 * SideBarEnhancements
 * SublimeCodeIntel
-* SublimeLinter
+* SublimeLinter - You should read doc before installing this http://sublimelinter.readthedocs.org
 
 ### Packages
 
