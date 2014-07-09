@@ -23,7 +23,7 @@ For windows users we have a few <a href="https://raw.githubusercontent.com/magnu
 * Alignment
 * Bracket Highlighter
 * DocBlockr
-* Emmet
+* <a href="https://sublime.wbond.net/packages/Emmet">Emmet</a> - if you don't use this your mental
 * LESS - require for less syntax highlighting
 * HTML5
 * SFTP (registration key required)
