@@ -25,7 +25,7 @@ If you are using the default sublime user settings you will need the Soda Theme 
 * JS Format
 * Git
 * GitGutter
-* Grunt
-* LESS-build
+* Grunt - allows you to run Grunt from the Sublime console, however CMD PROMT is better
+* LESS-build - Only required if you are not using Grunt file to compile your Less files
 * LoremIpsum
-* Minifier
+* Minifier - Only required if you are not using Grunt file to compile your Less files
