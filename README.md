@@ -1,4 +1,4 @@
-This is a quick sublime3 project configuration file that helps define your working envrionements in Sublime. 
+This is a quick Sublime3 project configuration file that helps define your working envrionements in Sublime. 
 
 #### Install Sublime3
 Download Sublime3 at http://www.sublimetext.com/3
@@ -8,7 +8,7 @@ If you do not have <a href="https://sublime.wbond.net/installation">Package Cont
 
 #### Grab the Soda Theme
 
-If you are using our supplied <a href="https://raw.githubusercontent.com/magnumcreative/Sublime3-Project-Boilerplate/master/sublime-settings">sublime user settings</a> you will need the <a href="https://sublime.wbond.net/packages/Theme%20-%20Soda">Soda Theme</a> installed otherwise you will get rendering issues in the Sublie GUI due to the user settings looking for the Soda Theme. If you don't grab this theme and use the supplied user settings you will get black sidebar issues as well as text rendering issues on tabs. Either comment out the theme in the user preferences or use your own, you don't have to use this theme just be aware of the fact that it's being called in the supplied user settings.
+If you are using our supplied <a href="https://raw.githubusercontent.com/magnumcreative/Sublime3-Project-Boilerplate/master/sublime-settings">sublime user settings</a> you will need the <a href="https://sublime.wbond.net/packages/Theme%20-%20Soda">Soda Theme</a> installed otherwise you will get rendering issues in the Sublime GUI due to the user settings looking for the Soda Theme. If you don't grab this theme and use the supplied user settings you will get black sidebar issues as well as text rendering issues on tabs. Either comment out the theme in the user preferences or use your own, you don't have to use this theme just be aware of the fact that it's being called in the supplied user settings.
 
 #### Set user preferences
 
