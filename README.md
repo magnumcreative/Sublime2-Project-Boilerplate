@@ -4,11 +4,11 @@ This is a quick sublime3 project configuration file that helps define your worki
 Download Sublime3 at http://www.sublimetext.com/3
 
 #### Enable Package Control
-If you do not have Package Control isntalled this is the first thing you should do https://sublime.wbond.net/installation
+If you do not have <a href="https://sublime.wbond.net/installation">Package Control</a> isntalled this is the first thing you should do.
 
 #### Grab a theme
 
-If you are using the default sublime user settings you will need the Soda Theme installed otherwise you will get rendering issues in the Sublie GUI. https://sublime.wbond.net/packages/Theme%20-%20Soda
+If you are using the default sublime user settings (mentioed below) you will need the <a href="https://sublime.wbond.net/packages/Theme%20-%20Soda">Soda Theme</a> installed otherwise you will get rendering issues in the Sublie GUI. If you don't grab this theme and use the supplied user settings you will get black sidebar issues as well as text rendering issues on tabs.
 
 #### Set user preferences
 
