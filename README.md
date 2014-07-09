@@ -10,7 +10,7 @@ If you are using the default sublime user settings you will need the Soda Theme 
 
 ### Setup Preferences
 
-Copy and paste the supplied user settings, it cleans a few items for your work environment.
+Copy and paste the <a href="https://raw.githubusercontent.com/magnumcreative/Sublime3-Project-Boilerplate/master/sublime-settings">supplied user settings</a>, it cleans a few items for your work environment.
 
 ### Must Use Packages
 
