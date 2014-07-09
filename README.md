@@ -1,6 +1,9 @@
 ### Sublime3 project settings boilerplate
 This is a quick sublime3 project configuration file that helps define your working envrionements in Sublime. Download Sublime3 at http://www.sublimetext.com/3
 
+### Themes
+
+* Soda - https://sublime.wbond.net/packages/Theme%20-%20Soda
 
 ### Must Use Packages
 
