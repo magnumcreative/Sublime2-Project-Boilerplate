@@ -23,9 +23,10 @@ For windows users we have a few <a href="https://raw.githubusercontent.com/magnu
 * Alignment
 * Bracket Highlighter
 * DocBlockr
-* <a href="https://sublime.wbond.net/packages/Emmet">Emmet</a> - if you don't use this your mental
+* <a href="https://sublime.wbond.net/packages/Emmet">Emmet</a>. If you don't use this your mental
 * LESS - require for less syntax highlighting
 * HTML5
+* <a href="https://sublime.wbond.net/packages/GitGutter">GitGutter</a>. A sublime text 2/3 plugin to show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.
 * SFTP (registration key required)
 * SideBarEnhancements
 * SublimeCodeIntel
@@ -37,7 +38,6 @@ For windows users we have a few <a href="https://raw.githubusercontent.com/magnu
 * JQuery
 * JS Format
 * Git
-* GitGutter
 * Grunt - allows you to run Grunt from the Sublime console, however CMD PROMT is better
 * LESS-build - Only required if you are not using Grunt file to compile your Less files
 * LoremIpsum
