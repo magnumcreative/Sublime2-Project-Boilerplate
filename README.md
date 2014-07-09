@@ -8,13 +8,13 @@ If you do not have Package Control isntalled this is the first thing you should 
 
 If you are using the default sublime user settings you will need the Soda Theme installed otherwise you will get rendering issues in the Sublie GUI. https://sublime.wbond.net/packages/Theme%20-%20Soda
 
-### Set User Preferences
+### Set user preferences
 
 Copy and paste the <a href="https://raw.githubusercontent.com/magnumcreative/Sublime3-Project-Boilerplate/master/sublime-settings">supplied user settings</a>, it cleans a few items for your work environment.
 
-### Set Keyboard Bindings
+### Handy key bindings
 
-For windows users we have a few quick keybindings to config your sublime environment.
+For windows users we have a few <a href="https://raw.githubusercontent.com/magnumcreative/Sublime3-Project-Boilerplate/master/sublime-keymap">quick keybindings</a> to config your sublime environment.
 
 ### Must Use Packages
 
