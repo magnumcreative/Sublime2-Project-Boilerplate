@@ -1,12 +1,16 @@
-### Sublime3 Config
+### Install Sublime3
 This is a quick sublime3 project configuration file that helps define your working envrionements in Sublime. Download Sublime3 at http://www.sublimetext.com/3
 
 ### Enable Package Control
 If you do not have Package Control isntalled this is the first thing you should do https://sublime.wbond.net/installation
 
-### Required Themes
+### Grab a theme
 
 If you are using the default sublime user settings you will need the Soda Theme installed otherwise you will get rendering issues in the Sublie GUI. https://sublime.wbond.net/packages/Theme%20-%20Soda
+
+### Setup Preferences
+
+Copy and paste the supplied user settings, it cleans a few items for your work environment.
 
 ### Must Use Packages
 
@@ -21,7 +25,7 @@ If you are using the default sublime user settings you will need the Soda Theme 
 * SublimeCodeIntel
 * SublimeLinter - You should read doc before installing this http://sublimelinter.readthedocs.org
 
-### Packages
+### Handy Packages
 
 * Bootstrap 3 Snippets
 * JQuery
