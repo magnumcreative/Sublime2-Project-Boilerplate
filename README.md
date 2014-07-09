@@ -1,5 +1,8 @@
-### Sublime3 project settings boilerplate
+### Sublime3 Config
 This is a quick sublime3 project configuration file that helps define your working envrionements in Sublime. Download Sublime3 at http://www.sublimetext.com/3
+
+### Enable Package Control
+If you do not have Package Control isntalled this is the first thing you should do https://sublime.wbond.net/installation
 
 ### Required Themes
 
