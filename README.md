@@ -6,7 +6,7 @@ Download Sublime3 at http://www.sublimetext.com/3
 #### Enable Package Control
 If you do not have <a href="https://sublime.wbond.net/installation">Package Control</a> isntalled this is the first thing you should do.
 
-#### Grab a theme
+#### Grab the Soda Theme
 
 If you are using the default sublime user settings (below) you will need the <a href="https://sublime.wbond.net/packages/Theme%20-%20Soda">Soda Theme</a> installed otherwise you will get rendering issues in the Sublie GUI due to the user settings looking for the Soda Theme. If you don't grab this theme and use the supplied user settings you will get black sidebar issues as well as text rendering issues on tabs. Either comment out the theme in the user preferences or use your own, you don't have to use this theme just be aware of the fact that it's being called in the supplied user settings.
 
