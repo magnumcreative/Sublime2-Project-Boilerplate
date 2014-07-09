@@ -12,6 +12,7 @@ If you are using the default sublime user settings you will need the Soda Theme 
 * DocBlockr
 * Emmet
 * LESS - require for less syntax highlighting
+* HTML5
 * SFTP (registration key required)
 * SideBarEnhancements
 * SublimeCodeIntel
@@ -22,7 +23,6 @@ If you are using the default sublime user settings you will need the Soda Theme 
 * Bootstrap 3 Snippets
 * JQuery
 * JS Format
-* HTML5
 * Git
 * GitGutter
 * Grunt
